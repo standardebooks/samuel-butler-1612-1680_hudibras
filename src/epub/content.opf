@@ -58,6 +58,8 @@
 		<dc:contributor id="transcriber-1">Donal O’Danachair</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">O’Danachair, Donal</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">wst</meta>
 		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>

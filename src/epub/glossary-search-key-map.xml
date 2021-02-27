@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#advowtry">
+		<match value="advowtry"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#animalia">
+		<match value="animalia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#arsie-versie">
+		<match value="arsie-versie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#aruspicy">
+		<match value="aruspicy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bachrach">
+		<match value="bachrach"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bavin">
+		<match value="bavin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boutefeu">
+		<match value="Boutefeus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cacodaemon">
+		<match value="Cacodaemon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#caldesd">
+		<match value="caldes’d"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#calendae">
+		<match value="Calendae"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#calleche">
+		<match value="calleches"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#camelion">
+		<match value="camelion"/>
+		<match value="state-camelion"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#camisado">
+		<match value="Camisado"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cane-and-angue-pejus">
+		<match value="Cane &amp; Angue pejus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#caperdewsie">
+		<match value="Caperdewsie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#capochd">
+		<match value="Capoch’d"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#caprich">
+		<match value="caprich">
+			<value value="capriches"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#carbonading">
+		<match value="carbonading"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#carroch">
+		<match value="carroches"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#catasta">
+		<match value="catasta"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cawdie">
+		<match value="cawdie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cawdle">
+		<match value="cawdle"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ceruse">
+		<match value="ceruse"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#champaign">
+		<match value="champaign">
+			<value value="Champaign"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#champain">
+		<match value="champain"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chousd-choust-chowsd">
+		<match value="chous’d"/>
+		<match value="choust"/>
+		<match value="chous’d">
+			<value value="Chous’d"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chowse">
+		<match value="chowse"/>
+		<match value="chouse"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#classis">
+		<match value="classis">
+			<value value="Classis"/>
+		</match>
+	<search-key-group href="text/glossary.xhtml#coincidere">
+		<match value="coincidere"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#congees">
+		<match value="congees"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#conster">
+		<match value="conster"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#conventicle">
+		<match value="conventicle">
+			<value value="Conventicle"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#covins">
+		<match value="covins"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cucking-stool">
+		<match value="cucking-stool"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#curship">
+		<match value="curship"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#curule">
+		<match value="curule"/>
+		<match value="chair-curule"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#deletory">
+		<match value="deletory"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#deodand">
+		<match value="deodand"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dewtry">
+		<match value="dewtry"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dialectico">
+		<match value="dialecticos"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dictum-factum">
+		<match value="dictum factum"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#disparo">
+		<match value="disparata"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#donzel">
+		<match value="Donzel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drazel">
+		<match value="drazels"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ducatoon">
+		<match value="ducatoons"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ejusdem-generis">
+		<match value="ejusdem generis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#enucleate">
+		<match value="enucleate"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ex-parte">
+		<match value="ex parte"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#exaun">
+		<match value="Exauns"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fadging">
+		<match value="fadging"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#feme-covert">
+		<match value="feme-coverts"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ferk">
+		<match value="ferk">
+			<value value="ferking"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#festina-lente">
+		<match value="Festina lente"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fingle-fangle">
+		<match value="fingle-fangle"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fother">
+		<match value="fother"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fulhams">
+		<match value="fulhams"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ganzas">
+		<match value="ganzas"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#genethliack">
+		<match value="Genethliacks"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#geomancy">
+		<match value="geomancy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gleave">
+		<match value="gleaves"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#granado">
+		<match value="granados"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#grillyd">
+		<match value="grilly’d"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#grincam">
+		<match value="grincam"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#guep">
+		<match value="guep"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#habergeon">
+		<match value="habergeon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#haut-gousts">
+		<match value="haut-gousts"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#headborough">
+		<match value="headborough"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hiccius-doctius">
+		<match value="Hiccius Doctius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hight">
+		<match value="hight">
+			<value value="Hight"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hoccamore">
+		<match value="hoccamore"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#horary">
+		<match value="horary"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#huckle">
+		<match value="huckle"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hugonots">
+		<match value="Hugonots"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hypocondries">
+		<match value="hypocondries"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#id-est">
+		<match value="Id est"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#idem">
+		<match value="Idem"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#illation">
+		<match value="illation"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#in-eodem-subjecto">
+		<match value="In eodem subjecto"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#in-querpo">
+		<match value="in querpo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jobbernol-e">
+		<match value="jobbernol">
+			<value value="jobbernoles"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jure-divino">
+		<match value="Jure divino"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#langued">
+		<match value="langued"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lathy">
+		<match value="Lathy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#linsey-woolsey">
+		<match value="linsey-woolsey"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#linstock">
+		<match value="linstock"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lombre">
+		<match value="L’Ombre"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#longees">
+		<match value="longees"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lustrations">
+		<match value="lustrations"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mainprize">
+		<match value="mainprize"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#manicon">
+		<match value="manicon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#manto">
+		<match value="mantos"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#martlet">
+		<match value="martlet"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mazzard">
+		<match value="mazzard"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#meazle">
+		<match value="meazle">
+			<value value="meazles"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mira-de-lente">
+		<match value="Mira de lente"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mordicus">
+		<match value="mordicus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#morpion">
+		<match value="morpion"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mundungus">
+		<match value="snuff-mundungus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#neat-noun">
+		<match value="neat"/>
+		<match value="neat’s"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#negatur">
+		<match value="Negatur"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nimmer">
+		<match value="nimmers"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#omnibus-nervis">
+		<match value="omnibus nervis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#oppugn">
+		<match value="oppugn">
+			<value value="Oppugn"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#orcades">
+		<match value="Orcades"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pacquet-male">
+		<match value="pacquet-male"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#padder">
+		<match value="padders">
+		<match value="padder’s">
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pari-libra">
+		<match value="pari libra"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pathic">
+		<match value="pathic"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pernicion">
+		<match value="pernicion"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#petronel">
+		<match value="petronel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#picqueer">
+		<match value="picqueer"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pigsney">
+		<match value="pigsney"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#plus-satis">
+		<match value="plus satis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#poesie">
+		<match value="poesie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pullen">
+		<match value="pullen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#punese">
+		<match value="punese"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pursy">
+		<match value="pursy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#quarteridge">
+		<match value="quarteridge"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#quatenus">
+		<match value="quatenus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#quillets">
+		<match value="quillets"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rampiers">
+		<match value="rampiers"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rationalia">
+		<match value="rationalia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rochet">
+		<match value="rochets"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#satis">
+		<match value="satis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sault">
+		<match value="Summer-sault"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#scire-facias">
+		<match value="scire facias">
+			<value value="Scire facias">
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sedes-stercoraria">
+		<match value="Sedes Stercoraria"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#seisin">
+		<match value="seisin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shanker">
+		<match value="shankers"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#slubberdegullion">
+		<match value="slubberdegullion"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#soland-geese">
+		<match value="soland geese">
+			<value value="Soland Geese">
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#staffier">
+		<match value="staffiers"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stentrophonick">
+		<match value="Stentrophonick"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stum">
+		<match value="stum"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#suggilld">
+		<match value="suggill’d"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sui-juris">
+		<match value="sui juris"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#swound">
+		<match value="swound"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#synodical">
+		<match value="synodical"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tantundem-dat-tantidem">
+		<match value="tantundem dat tantidem"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tarsel">
+		<match value="tarsel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#theorbo">
+		<match value="theorbo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#totidem-verbis">
+		<match value="Totidem verbis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#trapes">
+		<match value="trapes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#trepan">
+		<match value="trepan">
+			<value value="trepans"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#trigon">
+		<match value="trigons"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tussis-pro-crepitu">
+		<match value="Tussis pro crepitu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#velis-and-remis">
+		<match value="Velis &amp; remis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#veni-vidi-vici">
+		<match value="Veni, Vidi, Vici"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#versal">
+		<match value="’versal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#videlicet">
+		<match value="videlicet"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vitiligation">
+		<match value="vitiligation"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vizard">
+		<match value="vizards"/>
+		<match value="vizard-masks"/>
+		<match value="vizard-head"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#welkin">
+		<match value="welkin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#whiffler">
+		<match value="whifflers"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#whinyard">
+		<match value="whinyard"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ycleped">
+		<match value="ycleped"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#yerst">
+		<match value="yerst"/>
+	</search-key-group>
+</search-key-map>
