@@ -95,6 +95,7 @@
 		<match value="classis">
 			<value value="Classis"/>
 		</match>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#coincidere">
 		<match value="coincidere"/>
 	</search-key-group>
@@ -341,8 +342,8 @@
 		<match value="pacquet-male"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#padder">
-		<match value="padders">
-		<match value="padder’s">
+		<match value="padders"/>
+		<match value="padder’s"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pari-libra">
 		<match value="pari libra"/>
@@ -403,7 +404,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#scire-facias">
 		<match value="scire facias">
-			<value value="Scire facias">
+			<value value="Scire facias"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sedes-stercoraria">
@@ -420,7 +421,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#soland-geese">
 		<match value="soland geese">
-			<value value="Soland Geese">
+			<value value="Soland Geese"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#staffier">
