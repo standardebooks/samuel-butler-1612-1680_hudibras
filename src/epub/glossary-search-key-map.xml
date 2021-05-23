@@ -315,7 +315,10 @@
 		<match value="morpion"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mundungus">
-		<match value="snuff-mundungus"/>
+		<match value="snuff mundungus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nare-olfact">
+		<match value="nare olfact"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#neat-noun">
 		<match value="neat"/>
