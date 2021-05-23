@@ -6,6 +6,10 @@ body [xml|lang]{
 	font-style: italic;
 }
 
+q > i{
+	font-style: normal;
+}
+
 dd + dt{
 	margin-top: 1em;
 }
@@ -16,8 +20,7 @@ dd + dt{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
@@ -33,26 +36,16 @@ dd + dt{
 	display: none;
 }
 
+p span.i3{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 	-epub-hyphens: none;
-}
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-	margin-top: 1em;
-	font-style: normal;
-	font-variant: small-caps;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 /* End all epigraphs */
 
@@ -62,10 +55,6 @@ section > header [epub|type~="epigraph"]{
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
-}
-
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
 }
 
 @supports(display: table){
