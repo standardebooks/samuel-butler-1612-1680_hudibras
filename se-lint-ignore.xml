@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="canto-1-1.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
+		</ignore>
+	</file>
+	<file path="canto-2-3.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
+		</ignore>
+	</file>
+	<file path="canto-3-1.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
+		</ignore>
+	</file>
+	<file path="canto-3-3.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
