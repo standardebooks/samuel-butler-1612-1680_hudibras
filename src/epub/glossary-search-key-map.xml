@@ -40,8 +40,8 @@
 	<search-key-group href="text/glossary.xhtml#camisado">
 		<match value="Camisado"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#cane-and-angue-pejus">
-		<match value="Cane &amp; Angue pejus"/>
+	<search-key-group href="text/glossary.xhtml#cane-et-angue-pejus">
+		<match value="Cane et angue pejus"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#caperdewsie">
 		<match value="Caperdewsie"/>
@@ -58,13 +58,10 @@
 		<match value="carbonading"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#carroch">
-		<match value="carroches"/>
+		<match value="caroches"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#catasta">
 		<match value="catasta"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#cawdie">
-		<match value="cawdie"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cawdle">
 		<match value="cawdle"/>
@@ -73,12 +70,8 @@
 		<match value="ceruse"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#champaign">
-		<match value="champaign">
-			<value value="Champaign"/>
-		</match>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#champain">
-		<match value="champain"/>
+		<match value="champaign"/>
+		<match value="champagne"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chousd-choust-chowsd">
 		<match value="chous’d"/>
@@ -87,8 +80,7 @@
 			<value value="Chous’d"/>
 		</match>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#chowse">
-		<match value="chowse"/>
+	<search-key-group href="text/glossary.xhtml#chouse">
 		<match value="chouse"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#classis">
@@ -159,8 +151,8 @@
 	<search-key-group href="text/glossary.xhtml#ex-parte">
 		<match value="ex parte"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#exaun">
-		<match value="Exauns"/>
+	<search-key-group href="text/glossary.xhtml#exaunt">
+		<match value="exaunts"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fadging">
 		<match value="fadging"/>
@@ -189,7 +181,7 @@
 		<match value="ganzas"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#genethliack">
-		<match value="Genethliacks"/>
+		<match value="genethliacs"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#geomancy">
 		<match value="geomancy"/>
@@ -212,8 +204,8 @@
 	<search-key-group href="text/glossary.xhtml#habergeon">
 		<match value="habergeon"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#haut-gousts">
-		<match value="haut-gousts"/>
+	<search-key-group href="text/glossary.xhtml#haut-gouts">
+		<match value="haut-gouts"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#headborough">
 		<match value="headborough"/>
@@ -235,8 +227,8 @@
 	<search-key-group href="text/glossary.xhtml#huckle">
 		<match value="huckle"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hugonots">
-		<match value="Hugonots"/>
+	<search-key-group href="text/glossary.xhtml#huguenots">
+		<match value="Huguenots"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hypocondries">
 		<match value="hypocondries"/>
@@ -291,8 +283,8 @@
 	<search-key-group href="text/glossary.xhtml#manicon">
 		<match value="manicon"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#manto">
-		<match value="mantos"/>
+	<search-key-group href="text/glossary.xhtml#mantua">
+		<match value="mantuas"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#martlet">
 		<match value="martlet"/>
@@ -300,9 +292,9 @@
 	<search-key-group href="text/glossary.xhtml#mazzard">
 		<match value="mazzard"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#meazle">
-		<match value="meazle">
-			<value value="meazles"/>
+	<search-key-group href="text/glossary.xhtml#measle">
+		<match value="measle">
+			<value value="measles"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mira-de-lente">
@@ -376,13 +368,13 @@
 		<match value="pullen"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#punese">
-		<match value="punese"/>
+		<match value="punaise"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pursy">
 		<match value="pursy"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#quarteridge">
-		<match value="quarteridge"/>
+		<match value="quarteradge"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#quatenus">
 		<match value="quatenus"/>
@@ -423,15 +415,13 @@
 		<match value="slubberdegullion"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#soland-geese">
-		<match value="soland geese">
-			<value value="Soland Geese"/>
-		</match>
+		<match value="Soland geese"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#staffier">
 		<match value="staffiers"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#stentrophonick">
-		<match value="Stentrophonick"/>
+	<search-key-group href="text/glossary.xhtml#stentrophonic">
+		<match value="stentrophonic"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#stum">
 		<match value="stum"/>
@@ -452,7 +442,7 @@
 		<match value="tantundem dat tantidem"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tarsel">
-		<match value="tarsel"/>
+		<match value="tassel"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#theorbo">
 		<match value="theorbo"/>
@@ -475,7 +465,7 @@
 		<match value="Tussis pro crepitu"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#velis-and-remis">
-		<match value="Velis &amp; remis"/>
+		<match value="velis et remis"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#veni-vidi-vici">
 		<match value="Veni, Vidi, Vici"/>
@@ -486,8 +476,8 @@
 	<search-key-group href="text/glossary.xhtml#videlicet">
 		<match value="videlicet"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#vitiligation">
-		<match value="vitiligation"/>
+	<search-key-group href="text/glossary.xhtml#vitilitigation">
+		<match value="vitilitigation"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vizard">
 		<match value="vizards"/>
