@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4937</dc:source>
 		<dc:source>https://archive.org/details/hudibrasinthr00butl</dc:source>
 		<meta property="se:production-notes">As we already have a different Samuel Butler, this author’s slug is samuel-butler-1612-1680. This causes linting problems, which have been silenced.</meta>
-		<meta property="se:word-count">79304</meta>
+		<meta property="se:word-count">79298</meta>
 		<meta property="se:reading-ease.flesch">58.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hudibras</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-butler-1612-1680_hudibras</meta>
