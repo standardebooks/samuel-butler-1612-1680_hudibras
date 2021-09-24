@@ -9,10 +9,6 @@
 			<code>m-023</code>
 			<reason>Author name slug needs date appended.</reason>
 		</ignore>
-		<ignore>
-			<code>m-064</code>
-			<reason>Deep link into Pepys’ Diary.</reason>
-		</ignore>
 	</file>
 	<file path="colophon.xhtml">
 		<ignore>
