@@ -61,7 +61,8 @@
 		<meta property="file-as" refines="#transcriber-1">O’Danachair, Donal</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">wst</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
