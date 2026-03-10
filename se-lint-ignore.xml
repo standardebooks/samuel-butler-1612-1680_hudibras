@@ -2,29 +2,35 @@
 <se-lint-ignore>
 	<file path="canto-1-1.xhtml">
 		<ignore code="t-033">
+			<line>607</line>
 			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
 		</ignore>
 	</file>
 	<file path="canto-2-3.xhtml">
 		<ignore code="t-033">
+			<line>1643</line>
 			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
 		</ignore>
 	</file>
 	<file path="canto-3-1.xhtml">
 		<ignore code="t-033">
+			<line>523</line>
 			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
 		</ignore>
 	</file>
 	<file path="canto-3-3.xhtml">
 		<ignore code="t-033">
+			<line>368</line>
 			<reason>Words are correctly split across multiple lines with a hyphen.</reason>
 		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore code="m-009">
+			<line>49</line>
 			<reason>Author name slug needs date appended.</reason>
 		</ignore>
 		<ignore code="m-023">
+			<line>4</line>
 			<reason>Author name slug needs date appended.</reason>
 		</ignore>
 	</file>
