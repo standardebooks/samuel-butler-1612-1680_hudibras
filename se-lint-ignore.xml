@@ -26,7 +26,7 @@
 	</file>
 	<file path="content.opf">
 		<ignore code="m-009">
-			<line>49</line>
+			<line>51</line>
 			<reason>Author name slug needs date appended.</reason>
 		</ignore>
 		<ignore code="m-023">
