@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Hudibras</dc:title>
 		<meta property="file-as" refines="#title">Hudibras</meta>
-		<dc:subject id="subject-1">English poetry -- Early modern, 1500-1700</dc:subject>
+		<dc:subject id="subject-1">English poetry--Early modern, 1500-1700</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043935</meta>
 		<meta property="schema:genre">Fiction</meta>
